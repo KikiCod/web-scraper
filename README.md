@@ -8,9 +8,10 @@ You will also need to install the following Python libraries:
 **requests**
 **beautifulsoup4**
 You can install these libraries using pip, a package installer for Python. Open a terminal or command prompt and enter the following commands:
-> pip install requests
-> pip install beautifulsoup4
-
+```
+pip install requests
+ip install beautifulsoup4
+```
 **Usage**
 To use this program, follow these steps:
 
